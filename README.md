@@ -11,8 +11,8 @@
 ### 👨‍💻 About me
 
 - 🚀 **DevOps engineer** & **backend developer** based in İstanbul, Türkiye.
-- ☁️ I build and operate the **backend and cloud infrastructure** behind AI products — **CI/CD, GitOps, Terraform and Kubernetes**.
-- 🤖 I integrate **LLMs** (Claude, Gemini, vLLM) into real products — memory systems, system-prompt optimization, data pipelines and caching.
+- ☁️ I build and operate the **backend and cloud infrastructure** behind AI products **CI/CD, GitOps, Terraform and Kubernetes**.
+- 🤖 I integrate **LLMs** (Claude, Gemini, vLLM) into real product memory systems, system-prompt optimization, data pipelines and caching.
 - 🛠️ Currently doing DevOps for **Eva Social AI** & **Lavega Pro**, on AI products across social-media marketing, marketing agents and research simulation.
 - 🌐 Also handling **Google Cloud** infra, **Cloudflare**, domains and VPN setups.
 
@@ -53,7 +53,7 @@
 
 ### 🛠️ Open source — Bambu Filament Control
 
-A Windows desktop app (Electron) for tracking Bambu Lab AMS filament — built and shipped with a full CI/CD pipeline on GitHub Actions.
+A Windows desktop app (Electron) for tracking Bambu Lab AMS filament built and shipped with a full CI/CD pipeline on GitHub Actions.
 
 <div align="center">
 
