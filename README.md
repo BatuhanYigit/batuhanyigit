@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About me
 
-- 🚀 **DevOps engineer** & **backend developer** based in İstanbul, Türkiye.
-- ☁️ I build and operate the **backend and cloud infrastructure** behind AI products — **CI/CD, GitOps, Terraform and Kubernetes**.
-- 🤖 I integrate **LLMs** (Claude, Gemini, vLLM) into real products — memory systems, system-prompt optimization, data pipelines and caching.
-- 🛠️ Currently doing DevOps for **Eva Social AI** & **Lavega Pro**, on AI products across social-media marketing, marketing agents and research simulation.
-- 🌐 Also handling **Google Cloud** infra, **Cloudflare**, domains and VPN setups.
+🚀 **DevOps engineer** & **backend developer** based in İstanbul, Türkiye.<br/>
+☁️ I build and operate the **backend and cloud infrastructure** behind AI products — **CI/CD, GitOps, Terraform and Kubernetes**.<br/>
+🤖 I integrate **LLMs** (Claude, Gemini, vLLM) into real products — memory systems, system-prompt optimization, data pipelines and caching.<br/>
+🛠️ Currently doing DevOps for **Eva Social AI** & **Lavega Pro**, on AI products across social-media marketing, marketing agents and research simulation.<br/>
+🌐 Also handling **Google Cloud** infra, **Cloudflare**, domains and VPN setups.
 
 ### 🧰 Tech stack
 
@@ -47,10 +47,19 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BatuhanYigit&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BatuhanYigit&theme=github-dark&hide_border=true&area=true&radius=8" alt="activity graph" />
+
+</div>
+
+### 🛠️ Open source — Bambu Filament Control
+
+A Windows desktop app (Electron) for tracking Bambu Lab AMS filament — built and shipped with a full CI/CD pipeline on GitHub Actions.
+
+<div align="center">
+
+<a href="https://github.com/BatuhanYigit/bambulab-filament-control/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/BatuhanYigit/bambulab-filament-control/ci.yml?style=for-the-badge&label=CI&logo=githubactions&logoColor=white" alt="CI" /></a>
+<a href="https://github.com/BatuhanYigit/bambulab-filament-control/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/BatuhanYigit/bambulab-filament-control/release.yml?style=for-the-badge&label=Release%20build&logo=githubactions&logoColor=white" alt="Release build" /></a>
+<a href="https://github.com/BatuhanYigit/bambulab-filament-control/releases"><img src="https://img.shields.io/github/downloads/BatuhanYigit/bambulab-filament-control/total?style=for-the-badge&label=downloads&logo=github" alt="Downloads" /></a>
+<a href="https://github.com/BatuhanYigit/bambulab-filament-control/stargazers"><img src="https://img.shields.io/github/stars/BatuhanYigit/bambulab-filament-control?style=for-the-badge&label=stars" alt="Stars" /></a>
 
 </div>
